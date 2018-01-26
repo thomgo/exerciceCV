@@ -1,10 +1,10 @@
-#Réaliser son CV en HTML/CSS#
+# Réaliser son CV en HTML/CSS
 
 Il s'agit d'un exercice que j'ai produit en tant que formateur en développement web pour permettre au apprenant de baliser une page de manière basique, positionner les éléments grâce au CSS et leur appliquer une mise en forme simple. L'exercice est aussi visible à :
 
 https://skillcode.fr/exercice-css-projets-finaux/
 
-##Consignes
+## Consignes
 
 Que diriez-vous d'utiliser vos nouveaux pouvoirs de développeur web pour réaliser votre CV ? Vous l'aurez compris, il s'agira d'une page HTML mise en forme grâce au CSS pour ressembler à votre CV.
 
