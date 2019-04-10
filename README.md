@@ -4,6 +4,15 @@ Il s'agit d'un exercice que j'ai produit en tant que formateur en développement
 
 https://skillcode.fr/exercice-css-projets-finaux/
 
+Au travers de cet exercice, les étudiants apprennent à :
+- Démarrer un projet web sans back-end
+- Charger un fichier CSS dans un fichier HTML
+- Utiliser les principales balises HTML
+- Utiliser la sémentique adéquate
+- Structurer une page de manière cohérente
+- Appliquer des styles de base (couleurs, polices, backgrounds, tailles)
+- Positionner les éléments grâce au display ou à flexbox
+
 ## Consignes
 
 Que diriez-vous d'utiliser vos nouveaux pouvoirs de développeur web pour réaliser votre CV ? Vous l'aurez compris, il s'agira d'une page HTML mise en forme grâce au CSS pour ressembler à votre CV.
@@ -22,7 +31,7 @@ Vous êtes libre de réaliser cet exercice comme vous le désirez. Vous pouvez v
 
 - Une partie expériences
 
-- Une partie formation
+- Une partie formations
 
 - Une partie coordonnées, langues, compétences, loisirs etc
 
